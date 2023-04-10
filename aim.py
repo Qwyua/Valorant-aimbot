@@ -21,7 +21,7 @@ class ArduinoMouse:
             try:
                 self.serial_port.open()
             except serial.SerialException:
-                print('[Error] Colorant is already open or serial port in use by another app. Close Colorant and other apps before retrying.')
+                print('[Error] Volorant is already open or serial port in use by another app. Close Colorant and other apps before retrying.')
                 time.sleep(5)
                 sys.exit()
 
