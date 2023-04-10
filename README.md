@@ -10,4 +10,9 @@ Valorant has blocked access to almost all Python libraries that involve mouse in
 In conclusion, Arduino is an open-source hardware platform that can be used in various projects.
 
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/NlUyUGYHMAc" title="Arduino Aimbot Tutorial | Pyserial Tutorial | Tech Breakdown 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlUyUGYHMAc" frameborder="0" allowfullscreen></iframe>
+
+
+
+
