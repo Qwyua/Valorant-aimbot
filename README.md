@@ -11,7 +11,7 @@ In conclusion, Arduino is an open-source hardware platform that can be used in v
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NlUyUGYHMAc" frameborder="0" allowfullscreen></iframe>
+[![Arduino Aimbot Tutorial | Pyserial Tutorial | Tech Breakdown]([https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://i.ytimg.com/vi/NlUyUGYHMAc/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=NlUyUGYHMAc))
 
 
 
