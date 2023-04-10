@@ -1,4 +1,4 @@
-# Valorant-aim-bot
+# Valorant aimbot
 Unfinished Project: Ready for Development
 
 <h2>Valorant Anti-cheat protection</h2>
